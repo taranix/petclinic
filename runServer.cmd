@@ -1,0 +1,1 @@
+call mvnw jetty:run-war -DskipTests=true
